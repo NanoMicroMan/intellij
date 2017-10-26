@@ -5,7 +5,7 @@
     <option name="defaultScopeName" value="All Places" />
     <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.map" />
+    <option name="FILE_MASK" value="*.java" />
     <recentFileMasks>
       <mask>*.properties</mask>
       <mask>*.html</mask>
@@ -17,12 +17,12 @@
       <mask>*.js</mask>
       <mask>*.jso</mask>
       <mask>*.json</mask>
-      <mask>*.java</mask>
       <mask>*.css</mask>
       <mask>*</mask>
       <mask>*.</mask>
       <mask>*.m</mask>
       <mask>*.map</mask>
+      <mask>*.java</mask>
     </recentFileMasks>
   </component>
 </application>
