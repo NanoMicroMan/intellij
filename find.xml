@@ -7,7 +7,7 @@
     <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.ged" />
+    <option name="FILE_MASK" value="*.java" />
     <recentFileMasks>
       <mask>*.properties</mask>
       <mask>*.html</mask>
@@ -23,11 +23,11 @@
       <mask>*.</mask>
       <mask>*.m</mask>
       <mask>*.map</mask>
-      <mask>*.java</mask>
       <mask>*.xml</mask>
       <mask>*.g</mask>
       <mask>*.ge</mask>
       <mask>*.ged</mask>
+      <mask>*.java</mask>
     </recentFileMasks>
   </component>
 </application>
