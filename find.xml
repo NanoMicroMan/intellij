@@ -19,10 +19,10 @@
       <mask>*.</mask>
       <mask>*.m</mask>
       <mask>*.map</mask>
-      <mask>*.xml</mask>
       <mask>*.g</mask>
       <mask>*.ge</mask>
       <mask>*.ged</mask>
+      <mask>*.xml</mask>
       <mask>*.java</mask>
     </recentFileMasks>
   </component>
