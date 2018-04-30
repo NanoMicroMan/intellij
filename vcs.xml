@@ -74,6 +74,10 @@
           <option name="url" value="https://github.com/jaihind213/Embedded-Solr-Cloud.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/rootscity/familysearch-hint.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="C:\dev" />
