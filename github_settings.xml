@@ -1,7 +1,10 @@
 <application>
+  <component name="GithubAccounts">
+    <account id="dfe2f9c1-7e10-4ee4-907a-f2d47ef73ff2" name="dsegui.v@gmail.com">
+      <server host="github.com" />
+    </account>
+  </component>
   <component name="GithubSettings">
-    <option name="LOGIN" value="dsegui.v@gmail.com" />
-    <option name="AUTH_TYPE" value="BASIC" />
     <option name="CREATE_PULL_REQUEST_CREATE_REMOTE" value="YES" />
   </component>
 </application>
