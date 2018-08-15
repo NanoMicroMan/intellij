@@ -5,9 +5,8 @@
   <component name="UISettings">
     <option name="FONT_SCALE" value="1.0" />
     <option name="FONT_SIZE" value="13" />
-    <option name="HIDE_TOOL_STRIPES" value="false" />
-    <option name="MAX_LOOKUP_LIST_HEIGHT" value="20" />
-    <option name="MAX_LOOKUP_WIDTH2" value="513" />
+    <option name="MAX_LOOKUP_LIST_HEIGHT" value="38" />
+    <option name="MAX_LOOKUP_WIDTH2" value="946" />
     <option name="OVERRIDE_NONIDEA_LAF_FONTS" value="true" />
     <option name="SHOW_MAIN_TOOLBAR" value="true" />
     <option name="SHOW_NAVIGATION_BAR" value="false" />
