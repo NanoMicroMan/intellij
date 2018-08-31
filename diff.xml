@@ -23,6 +23,9 @@
   </component>
   <component name="TextDiffSettings">
     <option name="PLACES_MAP">
+      <entry key="CommitDialog">
+        <PlaceSettings />
+      </entry>
       <entry key="Default">
         <PlaceSettings>
           <option name="EXPAND_BY_DEFAULT" value="false" />
