@@ -1,4 +1,9 @@
 <application>
+  <component name="GithubAccounts">
+    <account id="6a835ae6-30f1-45a4-b404-756f6519f3f9" name="NanoMicroMan">
+      <server host="github.com" />
+    </account>
+  </component>
   <component name="GithubSettings">
     <option name="LOGIN" value="dsegui.v@gmail.com" />
     <option name="AUTH_TYPE" value="BASIC" />
