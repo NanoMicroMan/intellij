@@ -4,6 +4,7 @@
       <set>
         <option value="C:/Go" />
         <option value="C:\Go" />
+        <option value="C:\dev\go\go1.15.2" />
       </set>
     </sdk-path>
   </component>
