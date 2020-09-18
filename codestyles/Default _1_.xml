@@ -5,10 +5,6 @@
       <option name="SMART_TABS" value="true" />
     </value>
   </option>
-  <CsvCodeStyleSettings>
-    <option name="SPACE_BEFORE_SEPARATOR" value="true" />
-    <option name="SPACE_AFTER_SEPARATOR" value="true" />
-  </CsvCodeStyleSettings>
   <JetCodeStyleSettings>
     <option name="PACKAGES_TO_USE_STAR_IMPORTS">
       <value>

@@ -9,6 +9,7 @@
       <mapping ext="ged" type="PLAIN_TEXT" />
       <mapping ext="map" type="PLAIN_TEXT" />
       <mapping ext="db" type="PLAIN_TEXT" />
+      <mapping pattern=".analysis_options" type="YAML" />
     </extensionMap>
   </component>
 </application>
