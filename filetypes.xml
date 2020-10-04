@@ -4,6 +4,7 @@
       <mapping pattern="statsWriter" type="CLASS" />
       <mapping ext="gradle.kts" type="Kotlin" />
       <mapping ext="main.kts" type="Kotlin" />
+      <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
       <mapping ext="1" type="PLAIN_TEXT" />
       <mapping ext="ovpn" type="PLAIN_TEXT" />
       <mapping ext="ged" type="PLAIN_TEXT" />
