@@ -1,9 +1,0 @@
-<application>
-  <component name="DockerRegistry">
-    <DockerRegistry email="dsegui.v@gmail.com">
-      <option name="address" value="registry.hub.docker.com" />
-      <option name="name" value="Docker Registry" />
-      <option name="username" value="nanodocker" />
-    </DockerRegistry>
-  </component>
-</application>
