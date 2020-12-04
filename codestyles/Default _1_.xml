@@ -5,24 +5,6 @@
       <option name="SMART_TABS" value="true" />
     </value>
   </option>
-  <JetCodeStyleSettings>
-    <option name="PACKAGES_TO_USE_STAR_IMPORTS">
-      <value>
-        <package name="java.util" alias="false" withSubpackages="false" />
-        <package name="kotlinx.android.synthetic" alias="false" withSubpackages="true" />
-        <package name="io.ktor" alias="false" withSubpackages="true" />
-      </value>
-    </option>
-    <option name="PACKAGES_IMPORT_LAYOUT">
-      <value>
-        <package name="" alias="false" withSubpackages="true" />
-        <package name="java" alias="false" withSubpackages="true" />
-        <package name="javax" alias="false" withSubpackages="true" />
-        <package name="kotlin" alias="false" withSubpackages="true" />
-        <package name="" alias="true" withSubpackages="true" />
-      </value>
-    </option>
-  </JetCodeStyleSettings>
   <MarkdownNavigatorCodeStyleSettings>
     <option name="RIGHT_MARGIN" value="72" />
   </MarkdownNavigatorCodeStyleSettings>
@@ -32,9 +14,6 @@
   <XML>
     <option name="XML_LEGACY_SETTINGS_IMPORTED" value="true" />
   </XML>
-  <codeStyleSettings language="Dart">
-    <option name="RIGHT_MARGIN" value="120" />
-  </codeStyleSettings>
   <codeStyleSettings language="JAVA">
     <option name="CATCH_ON_NEW_LINE" value="true" />
     <option name="FINALLY_ON_NEW_LINE" value="true" />
@@ -73,11 +52,6 @@
   <codeStyleSettings language="Stylus">
     <indentOptions>
       <option name="USE_TAB_CHARACTER" value="true" />
-    </indentOptions>
-  </codeStyleSettings>
-  <codeStyleSettings language="go">
-    <indentOptions>
-      <option name="SMART_TABS" value="true" />
     </indentOptions>
   </codeStyleSettings>
 </code_scheme>
