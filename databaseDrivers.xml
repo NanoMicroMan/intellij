@@ -6,6 +6,9 @@
     <driver id="clickhouse">
       <option name="auto-sync" value="true" />
     </driver>
+    <driver id="couchbase_query">
+      <option name="auto-sync" value="true" />
+    </driver>
     <driver id="db2.11">
       <option name="auto-sync" value="false" />
     </driver>
@@ -100,8 +103,13 @@
       <option name="auto-commit" value="false" />
     </driver>
     <driver id="postgresql">
+      <artifact id="PostgreSQL" name="PostgreSQL" use="true" version="42.2.5" />
       <option name="auto-sync" value="true" />
       <option name="schema-control" value="MANUAL" />
+      <option name="auto-commit" value="true" />
+      <option name="format-sources-on-sync" value="true" />
+      <option name="send-app-info" value="true" />
+      <option name="source-loading" value="USER_SOURCES" />
     </driver>
     <driver id="redshift">
       <option name="auto-sync" value="true" />
