@@ -5,6 +5,9 @@
       <option name="SMART_TABS" value="true" />
     </value>
   </option>
+  <JetCodeStyleSettings>
+    <option name="CODE_STYLE_DEFAULTS" value="KOTLIN_OFFICIAL" />
+  </JetCodeStyleSettings>
   <MarkdownNavigatorCodeStyleSettings>
     <option name="RIGHT_MARGIN" value="72" />
   </MarkdownNavigatorCodeStyleSettings>
@@ -53,5 +56,8 @@
     <indentOptions>
       <option name="USE_TAB_CHARACTER" value="true" />
     </indentOptions>
+  </codeStyleSettings>
+  <codeStyleSettings language="kotlin">
+    <option name="CODE_STYLE_DEFAULTS" value="KOTLIN_OFFICIAL" />
   </codeStyleSettings>
 </code_scheme>
